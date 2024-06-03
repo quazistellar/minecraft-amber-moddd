@@ -1,4 +1,4 @@
-package net.grigorenko.mptmod.item;
+package net.starrykid.mptmod.item;
 
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;

@@ -1,7 +1,7 @@
-package net.grigorenko.mptmod.block;
+package net.starrykid.mptmod.block;
 
-import net.grigorenko.mptmod.item.ModCreativeModeTab;
-import net.grigorenko.mptmod.item.ModItems;
+import net.starrykid.mptmod.item.ModCreativeModeTab;
+import net.starrykid.mptmod.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -12,7 +12,7 @@ import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
-import net.grigorenko.mptmod.MptMod;
+import net.starrykid.mptmod.MptMod;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import java.util.function.Supplier;

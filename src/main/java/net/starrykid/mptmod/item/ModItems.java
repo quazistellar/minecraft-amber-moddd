@@ -1,6 +1,6 @@
-package net.grigorenko.mptmod.item;
+package net.starrykid.mptmod.item;
 
-import net.grigorenko.mptmod.MptMod;
+import net.starrykid.mptmod.MptMod;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;

@@ -1,8 +1,8 @@
-package net.grigorenko.mptmod;
+package net.starrykid.mptmod;
 
 import com.mojang.logging.LogUtils;
-import net.grigorenko.mptmod.block.ModBlocks;
-import net.grigorenko.mptmod.item.ModItems;
+import net.starrykid.mptmod.block.ModBlocks;
+import net.starrykid.mptmod.item.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
