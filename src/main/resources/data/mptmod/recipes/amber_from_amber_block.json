@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_ingot",
+  "ingredients": [
+    {
+      "item": "mptmod:amber_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "mptmod:amber"
+  }
+}
